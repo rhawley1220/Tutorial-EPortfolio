@@ -1,6 +1,6 @@
-@import url('https://fonts.googleapis.com/css2?family=Lato:wght@400;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@300..700&display=swap');
 * {
-    font-family: 'Lato', sans-serif;
+    font-family: "Quicksand", sans-serif;
     padding: 0;
     margin: 0;
     box-sizing: border-box;
@@ -81,7 +81,7 @@ li {
 }
 
 .text--purple {
-    color: #6030b1;
+    color: #00a846;
 }
 
 section:nth-child(even) {
@@ -117,7 +117,7 @@ nav {
 }
 
 .nav__link--anchor-primary {
-   background-color: #6030b1;
+   background-color: #00a846;
    padding: 8px 20px;
    border-radius: 50px;
    color: white;
@@ -125,12 +125,12 @@ nav {
 }
 
 .nav__link--anchor-primary:hover {
-    background-color: #5d3eff;
+    background-color: #017c34;
 }
 
 .personal__logo {
     font-size: 24px;
-    color: #6030b1;
+    color: #00a846;
     margin: 0 12px;
     font-weight: bold;
 }
